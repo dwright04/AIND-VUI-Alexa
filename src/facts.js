@@ -2,11 +2,15 @@
 // Include at least 10 distinct facts with a 4-digit year included in the text for each
 module.exports = {
     "FACTS_EN": [
-        "The field of AI is considered to have its origin in 1950, with publication of British mathematician Alan Turing's paper, Computing Machinery and Intelligence.",
-        "The term, Artificial Intelligence, was coined in 1956 by mathematician and computer scientist John McCarthy, at Dartmouth College, in New Hampshire.",
-        "In 1997, a chess-playing program named Deep Blue, developed by IBM, beat the reigning world chess champion.",
-        "A so-called AI Winter occurred in 1974, when funding was cut after Speech Understanding research did not live up to its promise.",
-        "A driverless robotic car named Stanley, engineered by Sebastian Thrun's Stanford Racing team, sped through the Mojave desert at 22 miles per hour to win the 2005 Darpa Grand Challenge.",
-        "Replace me and add some more facts!"
+        "The word supernova was coined by Walter Baade and Fritz Zwicky in 1931.",
+        "The most recent supernova in the Milky Way was Kepler's Supernova in 1604.",
+        "The brightest recorded supernova was SN 1006, which occurred in 1006 and was described in detail by Chinese and Islamic astronomers.",
+        "SN 1572 appeared in the Milky Way in early November 1572 and was independently discovered by many individuals including Tycho Brahe.",
+        "The most luminous supernova ever recorded is ASASSN-15lh. It was first detected in June 2015",
+        "Rudolph Minkowski and Fritz Zwicky developed the modern supernova classification scheme beginning in 1941.",
+        "SN 1987A was a supernova in the outskirts of the Tarantula Nebula in the Large Magellanic Cloud discovered in February 1987.",
+        "In 2011 Saul Perlmutter, Brian Schmidt and Adam Riess won the nobel prize in physics ror the discovery of the accelerating expansion of the Universe through observations of distant supernovae.",
+        "The Hubble Space Telescope launched in 1990 has allowed astronomers to identify individual stars in distant galaxies that have exploded as supernovae.",
+        "At its peak, the luminosity of SN 1054 may have been four times as bright as Venus remaining visible in daylight for 23 days in 1054."
     ]
 }
